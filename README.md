@@ -1,2 +1,2 @@
-# CustomerLifeTimeValue
-analysis,TimeSeries,ML
+# CustomerLifeTimeValueAnalysis
+analysisCLVARMATimeSeries 
